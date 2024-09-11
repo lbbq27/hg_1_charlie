@@ -1,1 +1,8 @@
-# hg_1_charlie
+# Charlie - Hack 1
+
+| Alias  | Integrante |
+| ------------- | ------------- |
+| Alfa  | Victor Apolinares  |
+| Charlie  | Laura |
+| Bravo | Andres |
+| Delta | Jose Serrano |
