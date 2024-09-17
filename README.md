@@ -1,8 +1,8 @@
 # Charlie - Hack 1
 
-| Alias  | Integrante |
-| ------------- | ------------- |
-| Alfa  | Victor Apolinares  |
-| Charlie  | Laura |
-| Bravo | Andres |
-| Delta | Jose Serrano |
+| Alias  | Integrante | Ubicacion
+| ------------- | ------------- | ------------- |
+| Alfa  | Victor Apolinares  |  Caracas  |
+| Charlie  | Laura |  Caracas  |  
+| Bravo | Andres |  Falcon  |
+| Delta | Jose Serrano |  Charallave  |
